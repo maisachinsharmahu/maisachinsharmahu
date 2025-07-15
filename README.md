@@ -34,11 +34,3 @@ Here are some ideas to get you started:
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=maisachinsharmahu&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maisachinsharmahu/output/snake.svg" alt="Snake animation" />
-
-###
