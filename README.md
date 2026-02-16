@@ -1,4 +1,4 @@
-![Socialify](https://socialify.git.ci/maisachinsharmahu/maisachinsharmahu/image?font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Plus&theme=Dark)
+<!--  ![Socialify](https://socialify.git.ci/maisachinsharmahu/maisachinsharmahu/image?font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Plus&theme=Dark) -->
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1000&lines=Hi+There!+I'm+Sachin+Sharma;Mobile+App+Developer;Full+Stack+Engineer;Building+Scalable+Systems" alt="Typing SVG" />
