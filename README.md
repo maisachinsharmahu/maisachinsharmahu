@@ -1,4 +1,4 @@
-![Socialify](https://socialify.git.ci/maisachinsharmahu/maisachinsharmahu/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark)
+![Socialify](https://socialify.git.ci/maisachinsharmahu/maisachinsharmahu/image?font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Plus&theme=Dark)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1000&lines=Hi+There!+I'm+Sachin+Sharma;Mobile+App+Developer;Full+Stack+Engineer;Building+Scalable+Systems" alt="Typing SVG" />
@@ -11,33 +11,33 @@
 
 <br/>
 
-### 👨‍💻 About Me
+### About Me
 
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h3>Hi, I'm Sachin Sharma! 👋</h3>
+      <h3>Hi, I'm Sachin Sharma!</h3>
       <p>
         I'm a passionate <b>Software Developer</b> with over 1.5 years of experience building scalable, user-centric digital experiences. 
         Currently based in <b>Delhi, India</b>, I specialize in crafting cross-platform mobile solutions and robust backend systems.
       </p>
       <p>
-        - 🔭 I’m currently working on <b>Mobile App Development</b><br>
-        - 🌱 I’m currently learning <b>System Design</b><br>
-        - 👯 I’m looking to collaborate on <b>Open Source Projects</b><br>
-        - 💬 Ask me about <b>Flutter, React, Node.js</b><br>
-        - 📫 How to reach me: <b>sachinsharmaaofficial@gmail.com</b>
+        - I’m currently working on <b>Mobile App Development</b><br>
+        - I’m currently learning <b>System Design</b><br>
+        - I’m looking to collaborate on <b>Open Source Projects</b><br>
+        - Ask me about <b>Flutter, React, Node.js</b><br>
+        - How to reach me: <b>sachinsharmaaofficial@gmail.com</b>
       </p>
     </td>
     <td valign="top" width="50%">
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=maisachinsharmahu&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="stats graph" width="100%" />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=maisachinsharmahu&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="stats graph" width="100%" />
       </div>
     </td>
   </tr>
 </table>
 
-### ⚡ Technical Arsenal
+### Technical Arsenal
 
 <div align="center">
 
@@ -50,7 +50,7 @@
 
 </div>
 
-### 🛠 Languages & Technologies
+### Languages & Technologies
 
 <!-- Adapted from adamalston -->
 
@@ -77,42 +77,45 @@
 
 <br/>
 
-### 📊 GitHub Productivity
+### GitHub Productivity
 
 <div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=maisachinsharmahu&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maisachinsharmahu&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=maisachinsharmahu&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=maisachinsharmahu&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
 </div>
 
 <br/>
 
-### 📈 Activity Graph
+### Activity Graph
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maisachinsharmahu&theme=github-dark-dimmed&custom_title=Sachin%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 
-### 🔥 Contribution Streak
+### Contribution Streak
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=maisachinsharmahu&theme=github_dark&hide_border=true&background=0d1117&fire=EB4C42&ring=EB4C42&currStreakLabel=EB4C42" alt="GitHub Streak" />
 </div>
 
+
+
 <br/>
+
+### Coding Lifecycle
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maisachinsharmahu&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="coding gif" />
 </div>
-
-<br/>
-
-### ⏳ Coding Lifecycle
 
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=maisachinsharmahu&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 
----
+<br />
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=maisachinsharmahu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## Social Links
 
@@ -160,7 +163,7 @@
 
 ---
 
-### 💡 Philosophy
+### Philosophy
 
 > *"Clean code is essential, but it must serve the product. I prioritize user value and business goals over over-engineering."*
 
@@ -173,8 +176,8 @@
 <!-- Footer -->
 <div align="center">
   <br />
-  <samp>Shipping weekly • Refactoring UI • Debugging prod 😄</samp>
+  <samp>Shipping weekly • Refactoring UI • Debugging prod</samp>
   <br />
   <br />
-  <a href="#top">Back to Top ⬆️</a>
+  <a href="#top">Back to Top</a>
 </div>
