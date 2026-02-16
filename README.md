@@ -88,7 +88,7 @@
 
 ### Activity Graph
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maisachinsharmahu&theme=github-dark-dimmed&custom_title=Sachin%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maisachinsharmahu&theme=high-contrast&custom_title=Sachin%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 
@@ -114,8 +114,10 @@
 
 <br />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=maisachinsharmahu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!-- Trophies (Server Unstable) -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=maisachinsharmahu&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
+</div>
 
 ## Social Links
 
