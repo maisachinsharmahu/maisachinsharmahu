@@ -21,29 +21,16 @@ of my own products I work on whenever I get the time.
 
 ### Tech I work with
 
-**Mobile**
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=Dart&logoColor=white)
-![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat-square&logo=React&logoColor=61DAFB)
+<div align="center">
 
-**Frontend**
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=React&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+| **Mobile** | **Frontend** | **Backend & Data** | **Tools** |
+|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=flutter" width="40" height="40" alt="Flutter" /> | <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" /> | <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" /> | <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" /> |
+| <img src="https://skillicons.dev/icons?i=dart" width="40" height="40" alt="Dart" /> | <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" /> | <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express" /> | <img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS" /> |
+| <img src="https://skillicons.dev/icons?i=apple,android" height="40" alt="iOS & Android" /> | <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" /> | <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" /> | <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" /> |
+| <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React Native" /> | <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind CSS" /> | <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" /> | <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma" /> |
 
-**Backend & Data**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-**Tools**
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+</div>
 
 ---
 
