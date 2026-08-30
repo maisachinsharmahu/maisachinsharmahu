@@ -38,10 +38,12 @@ of my own products I work on whenever I get the time.
 
 | Project | What it is |
 | :--- | :--- |
+| [DevDex](https://github.com/maisachinsharmahu/DevDex) | Finds every project you've ever started and opens it in the right IDE — native macOS and Windows |
 | [Loopin](https://github.com/maisachinsharmahu/Loopin-Showcase) | A privacy-first habit tracker with an RPG twist |
 | [Legease](https://github.com/maisachinsharmahu/legease-showcase) | AI-powered contract analysis, plain-English explanations |
 | [Mojo Docs](https://mojodocs.in) | Browser-based tools that never upload your files anywhere |
 | [Pokedex](https://github.com/maisachinsharmahu/pokedex-showcase) | A Pokedex app built properly, not as a tutorial project |
+| [MojoPlay](https://github.com/maisachinsharmahu/mojoplay-showcase) | A music app with real-time synchronized listening sessions |
 
 More of these, and the story behind each one, are on
 [sachinsharma.dev](https://sachinsharma.dev).
