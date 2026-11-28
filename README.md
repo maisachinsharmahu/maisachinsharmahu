@@ -16,6 +16,8 @@ of my own products I work on whenever I get the time.
 - Currently building **Loopin**, **Legease**, and **Aashwasan** on the side
 - Always up for talking Flutter, React, or Next.js, message me, I reply
 - Portfolio and everything I've built: [sachinsharma.dev](https://sachinsharma.dev)
+- I write a buyer's guide to hiring developers in India at [bestdev.in](https://bestdev.in), and take client work through [sachinsharma.work](https://sachinsharma.work)
+- Longer notes on building software: [thesachinsharma.in](https://thesachinsharma.in). My partner Arjav Jain writes at [devarjav.in](https://devarjav.in)
 
 ---
 
@@ -52,6 +54,8 @@ More of these, and the story behind each one, are on
 
 <div align="center">
   <a href="https://sachinsharma.dev">Portfolio</a> ·
+  <a href="https://bestdev.in">bestdev.in</a> ·
+  <a href="https://sachinsharma.work">Work with me</a> ·
   <a href="https://linkedin.com/in/sachinsharmaofficial">LinkedIn</a> ·
   <a href="https://x.com/sachinsharmadev">X</a> ·
   <a href="mailto:sachinsharmaaofficial@gmail.com">Email</a>
