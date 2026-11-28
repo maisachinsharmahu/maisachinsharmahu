@@ -17,7 +17,7 @@ of my own products I work on whenever I get the time.
 - Always up for talking Flutter, React, or Next.js, message me, I reply
 - Portfolio and everything I've built: [sachinsharma.dev](https://sachinsharma.dev)
 - I write a buyer's guide to hiring developers in India at [bestdev.in](https://bestdev.in), and take client work through [sachinsharma.work](https://sachinsharma.work)
-- Longer notes on building software: [thesachinsharma.in](https://thesachinsharma.in). My partner Arjav Jain writes at [devarjav.in](https://devarjav.in)
+- Longer notes on building software: [thesachinsharma.in](https://thesachinsharma.in).
 
 ---
 
